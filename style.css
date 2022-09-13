@@ -1,0 +1,11 @@
+a{
+    color: white!important;
+}
+.card-group{
+    margin: 10px;
+    padding: 10px;
+}
+.nav-item{
+    position: sticky !important;
+    top: 0 !important;
+}
